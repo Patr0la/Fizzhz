@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{905B6B3B-33B1-49FB-B691-AE30F88CB4F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game1.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="97" Column="56" NotebookId="1" />
+      <File FileName="Program.cs" Line="24" Column="1" NotebookId="1" />
+      <File FileName="Camera.cs" Line="38" Column="73" NotebookId="1" />
+      <File FileName="Button.cs" Line="25" Column="188" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="27" Width="1366" Height="704">
+        <Files>
+          <File FileName="Graf.cs" Line="93" Column="67" />
+          <File FileName="WeightSistem.cs" Line="31" Column="24" />
+          <File FileName="Slider.cs" Line="77" Column="74" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Graf.cs" line="69" offsetX="1025" offsetY="1088" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/patrik/Desktop/Fizzhz/Content/MainFont.spritefont</SourceFile>
+  <SourceTime>2018-11-07T15:57:31.055945+01:00</SourceTime>
+  <DestFile>/home/patrik/Desktop/Fizzhz/Content/bin/DesktopGL/Content/MainFont.xnb</DestFile>
+  <DestTime>2018-11-07T15:57:36.484089+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-27T19:18:18.708585+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-27T19:18:18.708585+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
